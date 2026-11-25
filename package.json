@@ -1,0 +1,10 @@
+{
+  "name": "my-tv-site",
+  "version": "1.0.0",
+  "description": "My website on Samsung TV with D-pad navigation",
+  "main": "inject.js",
+  "packageType": "mods",
+  "appName": "NovaHD",
+  "websiteURL": "https://novahd.cc",
+  "keys": []
+}
